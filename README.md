@@ -1,4 +1,4 @@
-rom oauth2client.service_account import ServiceAccountCredentials
+form oauth2client.service_account import ServiceAccountCredentials
 import httplib2
 import json
 
